@@ -17,4 +17,4 @@ Technologies Used
 JavaScript: For building the app’s core functionality.
 Leaflet: A JavaScript library for displaying interactive maps.
 Geolocation API: For fetching the user's current location.
-localStorage: To persist workout data in the browser.
+localStorage: To persist workout data in the browser
