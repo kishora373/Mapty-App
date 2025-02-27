@@ -1,4 +1,4 @@
-Welcome to the Mapty project! In this project, we will build a workout logging application that allows users to track their running and cycling activities on an interactive map. The app integrates geolocation to automatically fetch the user's current position and displays it on a map using the Leaflet library. Additionally, it stores user data in the browser's localStorage so that workout logs persist across page reloads and sessions.
+Welcome to the Mapty project! In this project, i have built a workout logging application that allows users to track their running and cycling activities on an interactive map. The app integrates geolocation to automatically fetch the user's current position and displays it on a map using the Leaflet library. Additionally, it stores user data in the browser's localStorage so that workout logs persist across page reloads and sessions.
 
 Features
 Interactive Map: The map is rendered using the Leaflet library, and it shows workout markers for running and cycling activities.
