@@ -17,3 +17,5 @@ JavaScript: For building the app’s core functionality.
 Leaflet: A JavaScript library for displaying interactive maps.
 Geolocation API: For fetching the user's current location.
 localStorage: To persist workout data in the browser
+THE MAIN RESOURSEC : MDKPWRJF3ROKOCOPKFOO3FPKOPF3OF33POFF.
+MKL OPK OKGKKRTOMMFGKK:
